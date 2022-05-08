@@ -1,9 +1,9 @@
 # Pirate Crew App!
 
-#Description
+# Description
 The goal of this application was to create a full CRUD application that would keep track of a pirate crew and the details about each pirate. All the pirates are sorted by their first name. Each pirate can be removed or deleted based on preference.This app was created with a time limit of 5 hours.
 
-Technologies used:
+# Technologies used:
 - React Framework
 - Mongoose
 - MongoDB
@@ -11,7 +11,7 @@ Technologies used:
 - NodeJS
 - AWS EC2 for deployment
 
-Features present in the app:
+# Features present in the app:
 1. View all pirates assigned to the Crew
 2. Add a pirate
 3. View each pirate individually
